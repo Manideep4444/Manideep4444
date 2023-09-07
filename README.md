@@ -4,6 +4,9 @@
 
 Hi, I'm Manideep. You might recognize me as GitHub's mascot.
 
+### My Bio
+
+
 <details>
 <summary>My top THINGS-TO-RANK</summary>
 
